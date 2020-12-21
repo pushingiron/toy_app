@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34dec0df-2656-4d49-9e71-323789d52936" name="Default Changelist" comment="Initialize repository">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@rails/actioncable/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@rails/activestorage/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@rails/activestorage/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@rails/ujs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@rails/ujs/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/spark-md5/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/spark-md5/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/turbolinks/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/turbolinks/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="34dec0df-2656-4d49-9e71-323789d52936" name="Default Changelist" comment="Initialize repository" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,7 +209,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608092127820</updated>
       <workItem from="1608092129098" duration="1799000" />
-      <workItem from="1608266322371" duration="4085000" />
+      <workItem from="1608266322371" duration="5035000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize repository">
       <created>1608092931188</created>
@@ -229,7 +218,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608092931188</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initialize repository">
+      <created>1608525676596</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608525676596</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initialize repository">
+      <created>1608525994455</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608525994455</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +243,34 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
